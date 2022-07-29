@@ -4,12 +4,8 @@
 ###
 ### [Python Installation](https://github.com/SDenn12/beginner_code/blob/main/python_tutorial.md)
 ### [PyCharm Installation](https://github.com/SDenn12/beginner_code/blob/main/PyCharm%20setup.mdhttps://github.com/SDenn12/)
-
+### [Markdown tutorial](https://github.com/SDenn12/beginner_code/blob/main/markdown.md)
+### [Github set up with HTTPS]
+### [Github set up with SSH]
 
 [For more guidance visit my Github page](https://github.com/SDenn12/)
-###
-##### Github set up with HTTPS
-
-##### Github set up with SSH
-###
-### Python Variables
