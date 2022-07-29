@@ -26,3 +26,4 @@ This can be done by ensuring that it is globally accessible (see Python setup do
 
 
 - #### You are now ready to start coding in Python!
+To go back to main menu [click here](https://github.com/SDenn12/beginner_code/blob/main/README.md)
