@@ -1,5 +1,5 @@
 # Markdown basics  
-![image](https://user-images.githubusercontent.com/110126036/181785551-d37b486b-05c1-466a-911b-958e94937574.png)=100x100
+![image](https://user-images.githubusercontent.com/110126036/181785551-d37b486b-05c1-466a-911b-958e94937574.png){width=100}{length=100}
 
 - To add an image `![](path of the image)`.
 - For a block of code use ``` block of code.
