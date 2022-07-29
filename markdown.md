@@ -8,6 +8,5 @@
   - `git add .` the dot includes all files, 
   - `git commit -m "logical message"`
   - `git push -u origin main`
-To go back to main menu 
 ##
-[click here](https://github.com/SDenn12/beginner_code/blob/main/README.md)
+To go back to main menu [click here](https://github.com/SDenn12/beginner_code/blob/main/README.md)
