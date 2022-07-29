@@ -16,6 +16,6 @@ git remote remove origin
 git remote add origin <correct address>
 ```
 ##
-To go back to Git page [click here](https://github.com/SDenn12/beginner_code/edit/main/git_tutorial.md)
+To go back to the Git page [click here](https://github.com/SDenn12/beginner_code/edit/main/git_tutorial.md)
 ####
-To go back to main menu [click here](https://github.com/SDenn12/beginner_code/blob/main/README.md)
+To go back to the main menu [click here](https://github.com/SDenn12/beginner_code/blob/main/README.md)
