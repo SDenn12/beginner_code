@@ -32,3 +32,4 @@
 
 
 #### If the latest version has appeared then you have successfully installed Python.
+To go back to main menu [click here](https://github.com/SDenn12/beginner_code/blob/main/README.md)
