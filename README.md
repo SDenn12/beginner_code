@@ -7,3 +7,6 @@
 ### [Git Tutorial](https://github.com/SDenn12/beginner_code/blob/main/git_tutorial.md)
 ###
 [For more guidance visit my Github page](https://github.com/SDenn12/)
+
+
+![image](https://user-images.githubusercontent.com/110126036/215180987-de37beeb-8432-4c0d-8551-ff6636d3268a.png)
